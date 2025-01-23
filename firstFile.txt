@@ -2,8 +2,8 @@ first line
 second line
 third line -> update step 7
 fourth line -> update step 7
-fifth line
-sixth line
+fifth line -> update step 8
+sixth line -> update step 8
 seventh line
 eighth line
 nineth line
